@@ -9,3 +9,4 @@ cmake_install.cmake
 c-echo
 *.a
 test
+c-echo-count
